@@ -1,5 +1,5 @@
 # Expediting Human Motor Learning in High-dimensional de-Novo Tasks via Online Curriculum Design
-This repository contains MATLAB files for running the online curriculum for novel motor skill learning human subject experiment using SenseGlove DK1.\\
+This repository contains MATLAB files for running the online curriculum for novel motor skill learning human subject experiment using SenseGlove DK1.  
 The novel motor skill acquisition experiment is posed as a target capture video game.
 
 ### Note:
