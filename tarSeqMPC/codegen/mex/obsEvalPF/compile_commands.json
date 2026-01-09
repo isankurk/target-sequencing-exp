@@ -1,0 +1,62 @@
+[
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  obsEvalPF_data.c -o build/maca64/obsEvalPF_data.o",
+    "file": "obsEvalPF_data.c",
+    "output": "build/maca64/obsEvalPF_data.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  rt_nonfinite.c -o build/maca64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/maca64/rt_nonfinite.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  obsEvalPF_initialize.c -o build/maca64/obsEvalPF_initialize.o",
+    "file": "obsEvalPF_initialize.c",
+    "output": "build/maca64/obsEvalPF_initialize.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  obsEvalPF_terminate.c -o build/maca64/obsEvalPF_terminate.o",
+    "file": "obsEvalPF_terminate.c",
+    "output": "build/maca64/obsEvalPF_terminate.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  obsEvalPF.c -o build/maca64/obsEvalPF.o",
+    "file": "obsEvalPF.c",
+    "output": "build/maca64/obsEvalPF.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  warning.c -o build/maca64/warning.o",
+    "file": "warning.c",
+    "output": "build/maca64/warning.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  interface/_coder_obsEvalPF_api.c -o build/maca64/_coder_obsEvalPF_api.o",
+    "file": "interface/_coder_obsEvalPF_api.c",
+    "output": "build/maca64/_coder_obsEvalPF_api.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  interface/_coder_obsEvalPF_mex.c -o build/maca64/_coder_obsEvalPF_mex.o",
+    "file": "interface/_coder_obsEvalPF_mex.c",
+    "output": "build/maca64/_coder_obsEvalPF_mex.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  interface/_coder_obsEvalPF_info.c -o build/maca64/_coder_obsEvalPF_info.o",
+    "file": "interface/_coder_obsEvalPF_info.c",
+    "output": "build/maca64/_coder_obsEvalPF_info.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/obsEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=obsEvalPF_mex -c  /Applications/MATLAB_R2023b.app/extern/version/c_mexapi_version.c -o build/maca64/c_mexapi_version.o",
+    "file": "/Applications/MATLAB_R2023b.app/extern/version/c_mexapi_version.c",
+    "output": "build/maca64/c_mexapi_version.o"
+  }
+]

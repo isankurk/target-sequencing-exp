@@ -1,0 +1,80 @@
+[
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  stateEvalPF_data.c -o build/maca64/stateEvalPF_data.o",
+    "file": "stateEvalPF_data.c",
+    "output": "build/maca64/stateEvalPF_data.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  rt_nonfinite.c -o build/maca64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/maca64/rt_nonfinite.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  stateEvalPF_initialize.c -o build/maca64/stateEvalPF_initialize.o",
+    "file": "stateEvalPF_initialize.c",
+    "output": "build/maca64/stateEvalPF_initialize.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  stateEvalPF_terminate.c -o build/maca64/stateEvalPF_terminate.o",
+    "file": "stateEvalPF_terminate.c",
+    "output": "build/maca64/stateEvalPF_terminate.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  stateEvalPF.c -o build/maca64/stateEvalPF.o",
+    "file": "stateEvalPF.c",
+    "output": "build/maca64/stateEvalPF.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  cat.c -o build/maca64/cat.o",
+    "file": "cat.c",
+    "output": "build/maca64/cat.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  mtimes.c -o build/maca64/mtimes.o",
+    "file": "mtimes.c",
+    "output": "build/maca64/mtimes.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  pagemtimes.c -o build/maca64/pagemtimes.o",
+    "file": "pagemtimes.c",
+    "output": "build/maca64/pagemtimes.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  randn.c -o build/maca64/randn.o",
+    "file": "randn.c",
+    "output": "build/maca64/randn.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  interface/_coder_stateEvalPF_api.c -o build/maca64/_coder_stateEvalPF_api.o",
+    "file": "interface/_coder_stateEvalPF_api.c",
+    "output": "build/maca64/_coder_stateEvalPF_api.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  interface/_coder_stateEvalPF_mex.c -o build/maca64/_coder_stateEvalPF_mex.o",
+    "file": "interface/_coder_stateEvalPF_mex.c",
+    "output": "build/maca64/_coder_stateEvalPF_mex.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  interface/_coder_stateEvalPF_info.c -o build/maca64/_coder_stateEvalPF_info.o",
+    "file": "interface/_coder_stateEvalPF_info.c",
+    "output": "build/maca64/_coder_stateEvalPF_info.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/stateEvalPF",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=stateEvalPF_mex -c  /Applications/MATLAB_R2023b.app/extern/version/c_mexapi_version.c -o build/maca64/c_mexapi_version.o",
+    "file": "/Applications/MATLAB_R2023b.app/extern/version/c_mexapi_version.c",
+    "output": "build/maca64/c_mexapi_version.o"
+  }
+]

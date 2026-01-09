@@ -1,0 +1,122 @@
+[
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  mpc_target_data.c -o build/maca64/mpc_target_data.o",
+    "file": "mpc_target_data.c",
+    "output": "build/maca64/mpc_target_data.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  rt_nonfinite.c -o build/maca64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/maca64/rt_nonfinite.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  mpc_target_initialize.c -o build/maca64/mpc_target_initialize.o",
+    "file": "mpc_target_initialize.c",
+    "output": "build/maca64/mpc_target_initialize.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  mpc_target_terminate.c -o build/maca64/mpc_target_terminate.o",
+    "file": "mpc_target_terminate.c",
+    "output": "build/maca64/mpc_target_terminate.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  mpc_target.c -o build/maca64/mpc_target.o",
+    "file": "mpc_target.c",
+    "output": "build/maca64/mpc_target.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  HML_model_trial.c -o build/maca64/HML_model_trial.o",
+    "file": "HML_model_trial.c",
+    "output": "build/maca64/HML_model_trial.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  mtimes.c -o build/maca64/mtimes.o",
+    "file": "mtimes.c",
+    "output": "build/maca64/mtimes.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  randn.c -o build/maca64/randn.o",
+    "file": "randn.c",
+    "output": "build/maca64/randn.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  norm.c -o build/maca64/norm.o",
+    "file": "norm.c",
+    "output": "build/maca64/norm.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  xzsvdc.c -o build/maca64/xzsvdc.o",
+    "file": "xzsvdc.c",
+    "output": "build/maca64/xzsvdc.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  xdotc.c -o build/maca64/xdotc.o",
+    "file": "xdotc.c",
+    "output": "build/maca64/xdotc.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  xnrm2.c -o build/maca64/xnrm2.o",
+    "file": "xnrm2.c",
+    "output": "build/maca64/xnrm2.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  interface/_coder_mpc_target_api.c -o build/maca64/_coder_mpc_target_api.o",
+    "file": "interface/_coder_mpc_target_api.c",
+    "output": "build/maca64/_coder_mpc_target_api.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  interface/_coder_mpc_target_mex.c -o build/maca64/_coder_mpc_target_mex.o",
+    "file": "interface/_coder_mpc_target_mex.c",
+    "output": "build/maca64/_coder_mpc_target_mex.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  eml_int_forloop_overflow_check.c -o build/maca64/eml_int_forloop_overflow_check.o",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/maca64/eml_int_forloop_overflow_check.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  xaxpy.c -o build/maca64/xaxpy.o",
+    "file": "xaxpy.c",
+    "output": "build/maca64/xaxpy.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  eml_mtimes_helper.c -o build/maca64/eml_mtimes_helper.o",
+    "file": "eml_mtimes_helper.c",
+    "output": "build/maca64/eml_mtimes_helper.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  mpc_target_emxutil.c -o build/maca64/mpc_target_emxutil.o",
+    "file": "mpc_target_emxutil.c",
+    "output": "build/maca64/mpc_target_emxutil.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  interface/_coder_mpc_target_info.c -o build/maca64/_coder_mpc_target_info.o",
+    "file": "interface/_coder_mpc_target_info.c",
+    "output": "build/maca64/_coder_mpc_target_info.o"
+  },
+  {
+    "directory": "/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC/codegen/mex/mpc_target",
+    "command": "/usr/bin/xcrun -sdk macosx14.2 clang -fno-common -arch arm64 -mmacosx-version-min=11.0 -fexceptions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fwrapv -DMATLAB_MEX_FILE -O2 -DNDEBUG -std=c99 -I \".\" -I \"/Users/wild5ire/Research/MSU/Year 4/RA/TarSeq_MPC\" -I \"./interface\" -I \"/Applications/MATLAB_R2023b.app/extern/include\" -I \".\" -DMODEL=mpc_target_mex -c  /Applications/MATLAB_R2023b.app/extern/version/c_mexapi_version.c -o build/maca64/c_mexapi_version.o",
+    "file": "/Applications/MATLAB_R2023b.app/extern/version/c_mexapi_version.c",
+    "output": "build/maca64/c_mexapi_version.o"
+  }
+]
