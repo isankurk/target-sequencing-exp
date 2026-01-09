@@ -26,6 +26,6 @@ The SenseGlove DK1 data acquisition interface was designed for Windows. So you n
 * Run `/SenseGlove/SenseCom.exe` and wait for connection to be established
 * Run `/DaqCpp/M3X.exe` to start data acquisition from the connected exoskeleton
 * Strap the exoskeleton to the human participant to start the experiment
-* Run `/main_ballistic_MPC.m` to start the experiment. This launches a GUI to select various parameters and hyperparameters
+* Run `main_CL_SNMPC.m` to start the experiment. This launches a GUI to select various parameters and hyperparameters
 
 The calibration data is saved in `/Calibration` and the subject data is saved in `/SubjectData` for further analysis and processing.
